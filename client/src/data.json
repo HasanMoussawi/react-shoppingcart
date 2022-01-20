@@ -1,32 +1,32 @@
 [
     {
         "id":"id1",
-        "title":"Product1",
-        "imageurl":"/images/product1.jpg",
+        "title":"Bread",
+        "imageurl":"/images/bread.png",
         "desc": "This is Product 1",
         "price": 30,
         "sizes":["S", "M", "L"]
     },
     {
         "id":"id2",
-        "title":"Product2",
-        "imageurl":"/images/product2.jpg",
+        "title":"Cake",
+        "imageurl":"/images/cake.png",
         "desc": "This is Product 2",
         "price": 45,
         "sizes":["S", "M", "L"]
     },
     {
         "id":"id3",
-        "title":"Product3",
-        "imageurl":"/images/product3.jpg",
+        "title":"Croissant",
+        "imageurl":"/images/croissant.png",
         "desc": "This is Product 3",
         "price": 45,
-        "sizes":["S", "M", "XL"]
+        "sizes":["S", "M", "L"]
     },
     {
         "id":"id4",
-        "title":"Product4",
-        "imageurl":"/images/product4.jpg",
+        "title":"Cupcake",
+        "imageurl":"/images/cupcake.png",
         "desc": "This is Product 4",
         "price": 45,
         "sizes":["M", "L"]
