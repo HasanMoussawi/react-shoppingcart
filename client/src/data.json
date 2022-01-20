@@ -1,0 +1,34 @@
+[
+    {
+        "id":"id1",
+        "title":"Bread",
+        "imageurl":"/images/bread.png",
+        "desc": "This is Product 1",
+        "price": 30,
+        "sizes":["S", "M", "L"]
+    },
+    {
+        "id":"id2",
+        "title":"Cake",
+        "imageurl":"/images/cake.png",
+        "desc": "This is Product 2",
+        "price": 45,
+        "sizes":["S", "M", "L"]
+    },
+    {
+        "id":"id3",
+        "title":"Croissant",
+        "imageurl":"/images/croissant.png",
+        "desc": "This is Product 3",
+        "price": 45,
+        "sizes":["S", "M", "L"]
+    },
+    {
+        "id":"id4",
+        "title":"Cupcake",
+        "imageurl":"/images/cupcake.png",
+        "desc": "This is Product 4",
+        "price": 45,
+        "sizes":["M", "L"]
+    }
+]

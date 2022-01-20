@@ -28,3 +28,14 @@ main {
 footer {
   grid-area: footer;
 }
+.wrapper {
+  padding: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.wrapper .products-wrapper {
+  width: 70%;
+}
+.wrapper .filter-wrapper {
+  width: 30%;
+}
