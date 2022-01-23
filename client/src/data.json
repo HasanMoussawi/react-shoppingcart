@@ -13,7 +13,7 @@
         "imageurl":"/images/cake.png",
         "desc": "This is Product 2",
         "price": 45,
-        "sizes":["S", "M", "L"]
+        "sizes":["L"]
     },
     {
         "id":"id3",
@@ -21,7 +21,7 @@
         "imageurl":"/images/croissant.png",
         "desc": "This is Product 3",
         "price": 45,
-        "sizes":["S", "M", "L"]
+        "sizes":["S", "L"]
     },
     {
         "id":"id4",
@@ -29,6 +29,6 @@
         "imageurl":"/images/cupcake.png",
         "desc": "This is Product 4",
         "price": 45,
-        "sizes":["M", "L"]
+        "sizes":["M"]
     }
 ]
